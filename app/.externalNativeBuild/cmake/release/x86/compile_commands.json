@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/APP14/MediaCodec_rtp_receive-master1/app/.externalNativeBuild/cmake/release/x86",
+  "command": "D:\\SDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/SDK/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=D:/SDK/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -isystem D:/SDK/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem D:/SDK/ndk-bundle/sources/android/support/include -isystem D:/SDK/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem D:/SDK/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\native-lib.cpp.o -c D:\\APP14\\MediaCodec_rtp_receive-master1\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:/APP14/MediaCodec_rtp_receive-master1/app/src/main/cpp/native-lib.cpp"
+}
+]

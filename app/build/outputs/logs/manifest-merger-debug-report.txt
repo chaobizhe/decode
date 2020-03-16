@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\ff872b150d3284c643c308918d409740\AndroidManifest.xml:15:1-18:12
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:6:9-84
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:6:26-82
+uses-permission#android.permission.INTERNET
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.CAMERA
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:10:2-62
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:10:19-59
+uses-feature#android.hardware.camera
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:13:22-76
+uses-feature#android.hardware.wifi
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:14:5-82
+	android:required
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:14:56-79
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:14:19-55
+application
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:21:5-36:19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\ff872b150d3284c643c308918d409740\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\ff872b150d3284c643c308918d409740\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:22:9-31
+activity#com.receive.decode.MainActivity
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:30:13-50
+	android:label
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:28:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\ff872b150d3284c643c308918d409740\AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\ff872b150d3284c643c308918d409740\AndroidManifest.xml:16:5-42
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		ADDED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APP14\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml

@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "D:\\SDK\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\APP14\\MediaCodec_rtp_receive-master1\\app\\CMakeLists.txt",
+    "D:\\SDK\\ndk-bundle\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\SDK\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\APP14\\MediaCodec_rtp_receive-master1\\app\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "D:\\SDK\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\APP14\\MediaCodec_rtp_receive-master1\\app\\.externalNativeBuild\\cmake\\release\\x86 --target native-lib",
+      "abi": "x86",
+      "output": "D:\\APP14\\MediaCodec_rtp_receive-master1\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}

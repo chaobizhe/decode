@@ -1,0 +1,3 @@
+D:/APP14/MediaCodec_rtp_receive-master1/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/native-lib.dir
+D:/APP14/MediaCodec_rtp_receive-master1/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/APP14/MediaCodec_rtp_receive-master1/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

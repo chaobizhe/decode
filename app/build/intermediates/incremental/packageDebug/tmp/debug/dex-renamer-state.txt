@@ -1,0 +1,4 @@
+#Sat Nov 02 10:49:15 CST 2019
+base.0=D\:\\APP14\\MediaCodec_rtp_receive-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
